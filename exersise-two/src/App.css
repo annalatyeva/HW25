@@ -1,0 +1,19 @@
+.App { 
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  flex: auto;
+}
+
+.errorWordlist {
+  text-align: center;
+  font-size: 1.5rem;
+  margin: 30vh auto;
+}
+
+footer {
+    flex-shrink: 0;
+}
